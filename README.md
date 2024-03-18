@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnain2434" alt="hasnain2434" /></a> </p>
 
-- 🔭 I’m currently working on **BrainTalk(A astonishing blend of HCI and ML))**
+- 🔭 I’m currently working on **BrainTalk(A astonishing blend of BCI and ML))**
 
 - 🌱 I’m currently learning **React Node.js Deep Learning Web Dev**
 
