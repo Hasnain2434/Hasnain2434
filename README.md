@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnain Riaz</h1>
-<h3 align="center">A passionate React.js, React Native developer and Machine Learning Enthusiast from Pakistan.</h3>
+<h3 align="center">A problem solver and a passionate React.js, React Native developer, Machine Learning Enthusiast from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnain2434&label=Profile%20views&color=0e75b6&style=flat" alt="hasnain2434" /> </p>
 
